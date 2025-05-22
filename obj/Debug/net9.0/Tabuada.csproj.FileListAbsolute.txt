@@ -1,0 +1,15 @@
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\Tabuada\obj\Debug\net9.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\Tabuada\obj\Debug\net9.0\Tabuada.AssemblyInfoInputs.cache
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\Tabuada\obj\Debug\net9.0\Tabuada.AssemblyInfo.cs
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\Tabuada\obj\Debug\net9.0\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\Tabuada\obj\Debug\net9.0\Tabuada.sourcelink.json
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\Tabuada\bin\Debug\net9.0\Tabuada.exe
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\Tabuada\bin\Debug\net9.0\Tabuada.deps.json
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\Tabuada\bin\Debug\net9.0\Tabuada.runtimeconfig.json
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\Tabuada\bin\Debug\net9.0\Tabuada.dll
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\Tabuada\bin\Debug\net9.0\Tabuada.pdb
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\Tabuada\obj\Debug\net9.0\Tabuada.dll
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\Tabuada\obj\Debug\net9.0\refint\Tabuada.dll
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\Tabuada\obj\Debug\net9.0\Tabuada.pdb
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\Tabuada\obj\Debug\net9.0\Tabuada.genruntimeconfig.cache
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista005\Tabuada\obj\Debug\net9.0\ref\Tabuada.dll
